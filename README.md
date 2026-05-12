@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header.gif">
-  <img src="assets/header.gif" alt="Data points converging to form a face" width="100%">
+  <img src="assets/header.gif?v=2" alt="3D rotating model" width="100%">
 </picture>
 
 <p align="center">
