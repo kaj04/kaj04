@@ -6,8 +6,12 @@
 *.png
 *.PNG
 
-# Generation script (not pushed)
+# Generation scripts (not pushed)
 generate_gif.py
+frames_to_gif.py
+
+# Blender animation frames (not pushed)
+Animazione 3D/
 
 # Python
 __pycache__/
