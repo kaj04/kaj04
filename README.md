@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.gif">
+  <img src="assets/header.gif" alt="Data points converging to form a face" width="100%">
+</picture>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-colasurdo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
