@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
-  <img src="assets/header-light.gif" alt="3D rotating model" width="60%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+    <img src="assets/header-light.gif" alt="3D rotating model" width="60%">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francesco-colasurdo">
