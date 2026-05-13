@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header.gif">
-  <img src="assets/header.gif?v=2" alt="3D rotating model" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+  <img src="assets/header-light.gif" alt="3D rotating model" width="100%">
 </picture>
 
 <p align="center">
